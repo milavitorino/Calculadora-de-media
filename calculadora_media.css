@@ -1,0 +1,47 @@
+body {
+	font-family: "Courier New", cursive;
+	min-height: 400px;
+	/*background-image: url("https://i.pinimg.com/564x/b6/ab/b3/b6abb3251e8d35a5a2bd07b5f6ad0e52.jpg");*/
+	background-color: #000000;
+	background-size: 50%;
+	background-position: right bottom;
+	background-repeat: no-repeat;
+}
+
+.container {
+	text-align: center;
+	padding: 10px; /*espaçamento interno, entre o texto e a borda*/
+	height: 100vh;
+}
+
+.page-title {
+	color: #ffffff;
+	margin: 0 0 0px; /*espaçamento externo*/
+}
+
+.page-subtitle {
+	color: #ffffff;
+	margin-top: 5px;
+}
+
+.text {
+	color: #ffffff;
+	margin 0 0 0px;
+	font-size "Courier New", cursive;
+}
+.page-logo {
+	width: 200px;
+}
+
+.alura-logo {
+	width: 40px;
+	position: absolute;
+	top: 10px;
+	right: 10px;
+}
+
+input {
+  margin: 0px;
+  padding: 1px;
+  border-radius: 0px;
+}
